@@ -1,0 +1,8 @@
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\HomeWork2\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\HomeWork2\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\HomeWork2\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\HomeWork2\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.AssemblyReference.cache
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\HomeWork2\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.SuggestedBindingRedirects.cache
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\HomeWork2\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\HomeWork2\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\HomeWork2\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
