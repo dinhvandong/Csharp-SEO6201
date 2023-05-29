@@ -29,26 +29,19 @@ namespace DoWhile
             // Neu nhap sai, yeu cau nhap lai 
 
             int a, b;
-
-
             do
             {
                 Console.WriteLine("Nhap vao so a:");
                 a = Convert.ToInt32(Console.ReadLine());
-
-
             }while(a <= 0);
 
             do
             {
                 Console.WriteLine("Nhap vao so b:");
                 b = Convert.ToInt32(Console.ReadLine());
-
-
             } while (b <= 0);
 
             Console.WriteLine("Tong a va b:" + (a + b));
-
             Console.ReadLine();
 
         }
