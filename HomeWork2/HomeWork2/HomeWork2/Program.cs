@@ -10,17 +10,20 @@ namespace HomeWork2
     {
         static void Main(string[] args)
         {
-            // 1^2 + 2^2 + ...n^2
+            // sum = 1^2 + 2^2 + ...n^2
 
             int n;
-            long sum = 0;
+            long sum = 0; // bien sum dung luu tong can tinh
+            // long like BIG Int
+            // double like big float 
 
             Console.WriteLine("Nhap vao gia tri n:");
             n = Convert.ToInt32(Console.ReadLine());
 
             for(int i = 1;i<= n;i++)
             {
-                sum = sum + i*i;
+                sum  = sum + (i*i);
+
             }
             Console.WriteLine("Sum is " + sum);
 
