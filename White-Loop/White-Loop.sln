@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "White-Loop", "White-Loop\White-Loop.csproj", "{660CDF32-BB02-49A0-9482-E052FE77DEE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{660CDF32-BB02-49A0-9482-E052FE77DEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660CDF32-BB02-49A0-9482-E052FE77DEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660CDF32-BB02-49A0-9482-E052FE77DEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660CDF32-BB02-49A0-9482-E052FE77DEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B401B36D-2621-4F31-8539-FE2F64A1C6C8}
+	EndGlobalSection
+EndGlobal

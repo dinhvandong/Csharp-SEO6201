@@ -1,0 +1,8 @@
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\White-Loop\White-Loop\bin\Debug\White-Loop.exe.config
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\White-Loop\White-Loop\bin\Debug\White-Loop.exe
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\White-Loop\White-Loop\bin\Debug\White-Loop.pdb
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\White-Loop\White-Loop\obj\Debug\White-Loop.csproj.AssemblyReference.cache
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\White-Loop\White-Loop\obj\Debug\White-Loop.csproj.SuggestedBindingRedirects.cache
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\White-Loop\White-Loop\obj\Debug\White-Loop.csproj.CoreCompileInputs.cache
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\White-Loop\White-Loop\obj\Debug\White-Loop.exe
+C:\FPT\BTEC\SUMMER-2023\SEO6201\GITHUB\White-Loop\White-Loop\obj\Debug\White-Loop.pdb

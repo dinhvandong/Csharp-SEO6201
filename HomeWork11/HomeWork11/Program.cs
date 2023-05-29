@@ -16,7 +16,6 @@ namespace HomeWork11
             long sum = 0;
             Console.WriteLine("Nhap n:");
             n = Convert.ToInt32(Console.ReadLine());
-
             // (1) + (1.2) + (1.2.3) + (1.2.3.4) + ....(1.2.3.4...n)
 
             // 1.2.3.4...n = n giai thua
@@ -27,11 +26,8 @@ namespace HomeWork11
                 x = x * i; // 1*2*3*....(n-1) * n = n giai thua
                 sum = sum + x;
             }
-
             Console.WriteLine("Result is "+ sum);
-            Console.ReadLine();
-
-           
+            Console.ReadLine(); 
         }
     }
 }
