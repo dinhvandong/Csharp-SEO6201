@@ -1,0 +1,8 @@
+C:\FPT\Programming C#\Lab 1- Calculator App\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\FPT\Programming C#\Lab 1- Calculator App\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\FPT\Programming C#\Lab 1- Calculator App\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\FPT\Programming C#\Lab 1- Calculator App\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+C:\FPT\Programming C#\Lab 1- Calculator App\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.SuggestedBindingRedirects.cache
+C:\FPT\Programming C#\Lab 1- Calculator App\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\FPT\Programming C#\Lab 1- Calculator App\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\FPT\Programming C#\Lab 1- Calculator App\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
